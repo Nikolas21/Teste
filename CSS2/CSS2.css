@@ -1,0 +1,29 @@
+body {
+
+    background-color: lightblue;
+    background-image: url(casas.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+    background-size: 90% auto;
+
+}
+
+div {
+
+    border: 10px rgb(170, 100, 30) solid;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    margin-right: 65%;
+    margin-left: 14%;
+    margin-top: 5%;
+    text-align: center;
+
+
+}
